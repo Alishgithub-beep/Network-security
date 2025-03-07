@@ -1,0 +1,6 @@
+[ 2025-03-07 23:49:21,152] 1025 httpx-INFO-HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2025-03-07 23:49:21,162] 107 dagshub-INFO-Accessing as Alishgithub-beep
+[ 2025-03-07 23:49:21,773] 1025 httpx-INFO-HTTP Request: GET https://dagshub.com/api/v1/repos/Alishgithub-beep/Network-security "HTTP/1.1 200 OK"
+[ 2025-03-07 23:49:22,286] 1025 httpx-INFO-HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2025-03-07 23:49:22,290] 107 dagshub-INFO-Initialized MLflow to track repo "Alishgithub-beep/Network-security"
+[ 2025-03-07 23:49:22,291] 107 dagshub-INFO-Repository Alishgithub-beep/Network-security initialized!
