@@ -1,1 +1,1 @@
-## Network security project for Phising Data (currently ongoing)
+## Network security project for Phising Data
